@@ -9,7 +9,7 @@ Additionally, it shows the bounding box of a stroke with a fade rectangle.
 '''
 
 from kivy.app import App
-from kivy.garden.inkcanvas.inkcanvas import StrokeCanvasBehavior, Stroke,\
+from kivy.garden.inkcanvas import StrokeCanvasBehavior, Stroke,\
         StrokeRect, StrokePoint, Sample, NDolarRecognizer
 from kivy.uix.button import Button
 from kivy.uix.floatlayout import FloatLayout
